@@ -1,0 +1,4 @@
+1，设置预编译宏 _VARIADIC_MAX=10;
+2，删除daemon.cpp,加入daemontest.cpp
+3, vs 建立filter文件夹shiptest, 和daemon.h同目录shiptest下文件加入
+4，写自己测试例子
